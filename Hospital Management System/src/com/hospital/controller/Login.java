@@ -100,6 +100,7 @@ public class Login {
                     if (resultSet.next()) {
                         String role = resultSet.getString("role");
 
+                        
                         if ("Admin".equalsIgnoreCase(role)) {
                             frame.dispose();
                             new AdminPannel.AP();
