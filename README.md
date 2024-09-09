@@ -20,4 +20,5 @@ A java-based software with JDBC and MySQL utilized, used to manage the control f
 4. Swing and awt
 <h2> Installation </h2>
 cloning : git clone https://github.com/username/hospital-management-system.git
+<br> 
 Contributions are welcome! Please create a pull request or open an issue for any improvements or bugs.
